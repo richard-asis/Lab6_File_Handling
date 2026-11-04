@@ -1,0 +1,319 @@
+Timestamp,Attack Type,Financial Loss (in Million $)
+2022,Phishing,64.31
+2022,Phishing,20.42
+2022,Malware,53.04
+2022,Ransomware,26.17
+2022,SQL Injection,66.24
+2022,Phishing,98.47
+2022,DDoS,32.53
+2022,Malware,20.33
+2022,Malware,67.16
+2022,Phishing,29.02
+2022,Ransomware,21.01
+2022,SQL Injection,60.25
+2022,DDoS,15.16
+2022,Malware,74.77
+2022,SQL Injection,66.66
+2022,Man-in-the-Middle,56.27
+2022,Malware,38.46
+2022,DDoS,78.18
+2022,Ransomware,16.16
+2022,SQL Injection,25.1
+2022,DDoS,12.61
+2022,Malware,84.15
+2022,Phishing,71.12
+2022,DDoS,12.01
+2022,Man-in-the-Middle,81.31
+2022,Phishing,85.01
+2022,DDoS,20.55
+2022,DDoS,82.19
+2022,DDoS,86.77
+2022,Ransomware,31.94
+2022,SQL Injection,67.62
+2022,Malware,67.89
+2022,Ransomware,57.52
+2022,Ransomware,64.92
+2022,Phishing,67.17
+2022,Ransomware,76.93
+2022,Man-in-the-Middle,27.82
+2022,Malware,38.89
+2022,Phishing,73.26
+2022,SQL Injection,27.06
+2022,Ransomware,75.67
+2022,SQL Injection,32.73
+2022,Malware,21.87
+2022,SQL Injection,42.8
+2022,Man-in-the-Middle,37.15
+2022,Man-in-the-Middle,78.23
+2022,Man-in-the-Middle,65.86
+2022,DDoS,64.38
+2022,Phishing,75.01
+2022,Man-in-the-Middle,85.3
+2022,Phishing,61.87
+2022,SQL Injection,6.31
+2022,SQL Injection,68.96
+2022,Man-in-the-Middle,12.36
+2022,DDoS,6.48
+2022,Phishing,98.06
+2022,Malware,92.29
+2022,Ransomware,71.33
+2022,Malware,47.12
+2022,Malware,84.57
+2022,Phishing,59.7
+2022,Ransomware,10.44
+2022,Malware,4.06
+2022,Phishing,31.35
+2022,Phishing,58.98
+2022,Phishing,85.91
+2022,DDoS,80.05
+2022,Phishing,22.73
+2022,DDoS,29.05
+2022,DDoS,79.6
+2022,Ransomware,33.71
+2022,Ransomware,54.47
+2022,Ransomware,84.51
+2022,Man-in-the-Middle,90.87
+2022,Malware,34.33
+2022,Man-in-the-Middle,59.43
+2022,Malware,81.92
+2022,Phishing,33.69
+2022,Ransomware,15.66
+2022,Malware,96.72
+2022,Man-in-the-Middle,44.34
+2022,DDoS,31.51
+2022,SQL Injection,77.3
+2022,Ransomware,4.29
+2022,SQL Injection,68.63
+2022,Phishing,36.15
+2022,DDoS,79.07
+2022,Man-in-the-Middle,49.87
+2022,Phishing,75.08
+2022,SQL Injection,25.85
+2022,DDoS,23.91
+2022,Ransomware,63.67
+2022,Ransomware,74.05
+2022,Phishing,97.56
+2022,DDoS,20.16
+2022,SQL Injection,11.51
+2022,Malware,7.65
+2022,SQL Injection,98.46
+2022,Malware,39.62
+2022,DDoS,80.76
+2022,Ransomware,41.08
+2022,Malware,60.9
+2022,DDoS,34.31
+2022,DDoS,73.98
+2022,Man-in-the-Middle,77.98
+2022,DDoS,21.01
+2022,Phishing,14.79
+2022,Malware,12.08
+2022,Malware,78.03
+2022,SQL Injection,79.19
+2022,Man-in-the-Middle,84.1
+2022,Ransomware,86.56
+2022,Malware,39.55
+2022,Phishing,71.77
+2022,SQL Injection,60.71
+2022,DDoS,50.04
+2022,Phishing,80.99
+2022,Phishing,56.44
+2022,Man-in-the-Middle,73.24
+2022,Ransomware,79.77
+2022,Man-in-the-Middle,31.4
+2022,SQL Injection,8.5
+2022,DDoS,38.69
+2022,Ransomware,38.84
+2022,Ransomware,19.47
+2022,Phishing,13.37
+2022,Ransomware,70.44
+2022,DDoS,46.2
+2022,Phishing,72.06
+2022,Malware,21.26
+2022,Phishing,80.11
+2022,Malware,41.67
+2022,Ransomware,7.65
+2022,SQL Injection,61.97
+2022,Malware,27.09
+2022,Ransomware,84.09
+2022,Ransomware,17.58
+2022,Phishing,69.99
+2022,Ransomware,50.11
+2022,DDoS,56.89
+2022,Phishing,49.08
+2022,Phishing,35.54
+2022,Phishing,92.58
+2022,Phishing,31.73
+2022,Ransomware,14.5
+2022,SQL Injection,91.91
+2022,Malware,7.17
+2022,Phishing,18.45
+2022,Phishing,75.42
+2022,DDoS,17.68
+2022,Ransomware,61.99
+2022,Man-in-the-Middle,39.87
+2022,Malware,26.7
+2022,Ransomware,89.33
+2022,Man-in-the-Middle,75.51
+2022,SQL Injection,89.74
+2022,DDoS,4.81
+2022,Phishing,47.66
+2022,SQL Injection,95.74
+2022,DDoS,58.93
+2022,Man-in-the-Middle,34.16
+2022,Man-in-the-Middle,12.96
+2022,Malware,93.2
+2022,SQL Injection,61.41
+2022,Ransomware,51.51
+2022,Ransomware,38.84
+2022,Ransomware,86.84
+2022,SQL Injection,29.02
+2022,Ransomware,42.33
+2022,Phishing,55.72
+2022,Ransomware,92.07
+2022,Phishing,9.84
+2022,Malware,34.32
+2022,Phishing,92.54
+2022,Phishing,61.97
+2022,Man-in-the-Middle,13.82
+2022,Malware,11.31
+2022,Phishing,22.72
+2022,Man-in-the-Middle,34.57
+2022,Phishing,57.89
+2022,DDoS,13.89
+2022,Malware,59.7
+2022,Malware,91.65
+2022,Ransomware,92.88
+2022,Malware,12.67
+2022,Malware,97.03
+2022,Malware,97.32
+2022,SQL Injection,15.29
+2022,Man-in-the-Middle,4.05
+2022,Man-in-the-Middle,96.44
+2022,SQL Injection,56.63
+2022,DDoS,9.5
+2022,Man-in-the-Middle,38.29
+2022,Man-in-the-Middle,65.51
+2022,SQL Injection,43.73
+2022,Ransomware,49.56
+2022,DDoS,77.74
+2022,Malware,19.56
+2022,Malware,40.08
+2022,Phishing,72.53
+2022,SQL Injection,47.92
+2022,Man-in-the-Middle,32.47
+2022,Phishing,17.32
+2022,Phishing,52.19
+2022,Malware,47.92
+2022,Man-in-the-Middle,65.19
+2022,Man-in-the-Middle,83.61
+2022,Malware,11.39
+2022,DDoS,51.33
+2022,Ransomware,85.61
+2022,Phishing,78.2
+2022,Ransomware,16.98
+2022,DDoS,18.49
+2022,Malware,4.5
+2022,Phishing,26.02
+2022,DDoS,45.73
+2022,Malware,4.08
+2022,DDoS,13.97
+2022,Malware,60.85
+2022,Phishing,62.8
+2022,Malware,13.77
+2022,Man-in-the-Middle,62.83
+2022,Ransomware,32.56
+2022,DDoS,71.55
+2022,Man-in-the-Middle,53.95
+2022,Phishing,48.71
+2022,DDoS,94.79
+2022,SQL Injection,68.53
+2022,DDoS,92.06
+2022,Malware,71.15
+2022,Malware,73.26
+2022,Man-in-the-Middle,92.88
+2022,DDoS,79.5
+2022,DDoS,93.96
+2022,Malware,54.17
+2022,Ransomware,44.25
+2022,Man-in-the-Middle,60.55
+2022,Malware,6.51
+2022,DDoS,53.91
+2022,SQL Injection,48.0
+2022,Ransomware,10.84
+2022,Malware,24.6
+2022,Phishing,33.54
+2022,Ransomware,71.26
+2022,Malware,71.15
+2022,Ransomware,85.43
+2022,Malware,70.46
+2022,SQL Injection,56.2
+2022,Ransomware,73.1
+2022,Malware,38.76
+2022,Man-in-the-Middle,66.25
+2022,Man-in-the-Middle,40.94
+2022,DDoS,21.45
+2022,Malware,13.06
+2022,Man-in-the-Middle,0.54
+2022,SQL Injection,0.83
+2022,DDoS,69.24
+2022,DDoS,51.95
+2022,Malware,19.26
+2022,DDoS,50.9
+2022,SQL Injection,69.09
+2022,Malware,47.33
+2022,Ransomware,80.73
+2022,Malware,13.88
+2022,Man-in-the-Middle,91.69
+2022,Ransomware,16.6
+2022,Phishing,41.81
+2022,Ransomware,40.36
+2022,Ransomware,1.42
+2022,SQL Injection,52.91
+2022,DDoS,51.95
+2022,Phishing,39.15
+2022,Ransomware,87.93
+2022,Malware,32.26
+2022,Ransomware,36.48
+2022,SQL Injection,56.62
+2022,Ransomware,50.4
+2022,Malware,1.92
+2022,SQL Injection,1.99
+2022,SQL Injection,5.85
+2022,DDoS,93.71
+2022,Man-in-the-Middle,5.4
+2022,Ransomware,85.72
+2022,Phishing,51.76
+2022,DDoS,9.73
+2022,Malware,46.75
+2022,SQL Injection,58.35
+2022,DDoS,32.2
+2022,SQL Injection,1.16
+2022,Man-in-the-Middle,90.65
+2022,DDoS,27.02
+2022,DDoS,88.61
+2022,Phishing,26.63
+2022,Man-in-the-Middle,89.11
+2022,Phishing,12.42
+2022,Man-in-the-Middle,88.71
+2022,Malware,71.54
+2022,SQL Injection,27.86
+2022,DDoS,92.23
+2022,SQL Injection,34.03
+2022,SQL Injection,6.61
+2022,SQL Injection,53.89
+2022,Malware,33.8
+2022,Phishing,33.49
+2022,Phishing,64.07
+2022,Ransomware,71.36
+2022,Ransomware,59.0
+2022,DDoS,74.59
+2022,Ransomware,34.58
+2022,Malware,32.6
+2022,Malware,17.3
+2022,DDoS,84.09
+2022,Malware,92.53
+2022,SQL Injection,2.1
+2022,Phishing,37.76
+2022,Malware,35.05
+2022,SQL Injection,37.94
+2022,SQL Injection,32.17

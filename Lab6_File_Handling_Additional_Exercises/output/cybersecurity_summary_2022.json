@@ -1,0 +1,17 @@
+{
+    "student_name": "Asis",
+    "student_id": "TUPM-26-1217",
+    "target_year": 2022,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 318,
+    "count_per_attack_type": {
+        "Phishing": 57,
+        "Malware": 64,
+        "Ransomware": 56,
+        "SQL Injection": 46,
+        "DDoS": 54,
+        "Man-in-the-Middle": 41
+    },
+    "total_financial_loss_usd_millions": 15870.86,
+    "average_financial_loss_usd_millions": 49.91
+}

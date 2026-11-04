@@ -1,0 +1,10 @@
+{
+    "operating_system": "iOS",
+    "user_behavior_class": 3,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 146,
+    "records_in_target_behavior_class": 32,
+    "average_battery_drain_mah_day": 1492.03,
+    "average_data_usage_mb_day": 828.09,
+    "exported_csv_file": "filtered_user_behavior.csv"
+}

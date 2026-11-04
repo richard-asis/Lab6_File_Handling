@@ -1,0 +1,17 @@
+EXERCISE 3: CYBERSECURITY INCIDENT REPORT
+======================================================================
+Student Name: Asis
+Student ID: TUPM-26-1217
+Target Year: 2022
+Total Dataset Records: 3000
+Incidents in Target Year: 318
+Attack Type Counts: {'Phishing': 57, 'Malware': 64, 'Ransomware': 56, 'SQL Injection': 46, 'DDoS': 54, 'Man-in-the-Middle': 41}
+Total Financial Loss: $15,870.86 Million
+Average Financial Loss: $49.91 Million
+
+Five Costliest Incidents:
+1. Loss: $98.47M | Type: Phishing
+2. Loss: $98.46M | Type: SQL Injection
+3. Loss: $98.06M | Type: Phishing
+4. Loss: $97.56M | Type: Phishing
+5. Loss: $97.32M | Type: Malware
