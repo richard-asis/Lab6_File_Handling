@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Asis
+Student ID: TUPM-26-1217
+Seed Digit: 7
+ID Sum: 19
+Verification Value: 83
+Dataset Sample Size: 69
+Valid Records: 69
+Average Global Active Power: 4.041
+JSON File: Asis_TUPM-26-1217_record.json
+Backup File: Asis_TUPM-26-1217_record.csv

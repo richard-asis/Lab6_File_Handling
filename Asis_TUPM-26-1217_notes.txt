@@ -1,0 +1,5 @@
+Student: Asis
+Student ID: TUPM-26-1217
+Seed digit: 7
+ID sum: 19
+Verification value: 83
